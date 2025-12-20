@@ -1,7 +1,3 @@
-[submodule "buildroot"]
-	path = buildroot
-	url = https://github.com/starfive-tech/buildroot.git
-	branch = pinetabv-devel
 [submodule "linux"]
 	path = linux
 	url = https://github.com/starfive-tech/linux.git
@@ -14,3 +10,6 @@
 	path = opensbi
 	url = https://github.com/starfive-tech/opensbi.git
 	branch = JH7110_VisionFive2_devel
+[submodule "soft_3rdpart"]
+	path = soft_3rdpart
+	url = git@github.com:anoduck/soft_3rdpart.git
