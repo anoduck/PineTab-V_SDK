@@ -13,6 +13,3 @@
 [submodule "soft_3rdpart"]
 	path = soft_3rdpart
 	url = git@github.com:anoduck/soft_3rdpart.git
-[submodule "buildroot"]
-	path = buildroot
-	url = git@github.com:anoduck/pinetab-v_buildroot.git
